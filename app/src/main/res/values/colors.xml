@@ -8,4 +8,12 @@
     <color name="colorNavigationIconChecked">#FF5722</color>
     <color name="colorNavigationBackground">#ECECEC</color>
     <color name="colorNavigationText">#ffffff</color>
+
+    <!--colors for profile-->
+    <color name="profilePrimaryDark">#FF3B30</color>
+    <color name="profileAccentColor">#F7F7F7</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="profileBackground">#fff</color>
+    <color name="blackTextColor">#000</color>
+    <color name="profileEditTextColor">#707070</color>
 </resources>
