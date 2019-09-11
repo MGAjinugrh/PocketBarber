@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pocket Barber</string>
+    <string name="app_description">Mau Cukur? Tinggal klik!</string>
+
+    <string name="home">Home</string>
+    <string name="activity">Activity</string>
+    <string name="payment">Payment</string>
+    <string name="inbox">Inbox</string>
+    <string name="account">Account</string>
+</resources>
